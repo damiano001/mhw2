@@ -9,7 +9,10 @@ Personality Assessment: Upon completing the test, users receive a personalized r
 Interactive Feedback: The application provides interactive feedback to users during the test, enhancing the overall user experience.<br><br>
 
 ## Screenshot
-![Alt Text](scr2.png) <br><br>
+![Alt Text](scr2.png) <br>
+<br><br><br><br>
+![Alt Text](scr3.png) <br>
+
 
 ## Technologies Used
 HTML: Used for creating the structure and content of the web pages. <br>
